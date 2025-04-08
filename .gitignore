@@ -2,3 +2,4 @@
 env/
 .qodo/
 __pycache__/
+.env
